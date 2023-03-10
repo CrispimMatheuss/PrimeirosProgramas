@@ -16,7 +16,6 @@ public class CallCenter {
     ArrayList<String> contatoCliente = new ArrayList<>();
     ArrayList<String> enderecoCliente = new ArrayList<>();
 
-    //int i = nomeCliente.size();
     public int callCenter() {
         System.out.println("Bem vindo ao Sistema de Call Center");
         System.out.println("Digite abaixo a opção desejada");
